@@ -1,0 +1,45 @@
+/*p {
+  animation-duration: 3s;
+  animation-name: slidein;
+}
+
+@keyframes slidein {
+  from {
+    margin-left: 100%;
+    width: 300%
+  }
+
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
+}*/
+.margen{
+  padding: 0;
+}
+
+.lista__espacio{
+  margin-bottom: 20%;
+}
+.tamaño__header{
+  height: 100%;
+}
+.tamaño__logo{
+  width: 100px;
+}
+.alinear__centro{
+  text-align: center;
+}
+.color__verde{
+  background-color: #01A87E;
+
+}
+
+ul {
+    width: 120px;
+}
+
+li a:hover {
+    background-color: #555;
+    color: white;
+}
